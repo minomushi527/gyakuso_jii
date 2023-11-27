@@ -1,6 +1,8 @@
 # gyakuso_jii
 高速道路逆走ジジイ https://unityroom.com/games/gyakusou_jii のコード
 
+書いたコード(c#)はAsset>scriptから読める
+
 本当にすみませんでした。
 
 操作方法
